@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAutomation", "LibraryAutomation\LibraryAutomation.csproj", "{5BFE66BD-E862-4649-B707-C00E6CBF22C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup_file", "setup_file\setup_file.vdproj", "{CC9D07BA-1FA8-45A4-B7C0-2B54E1DDEC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFE66BD-E862-4649-B707-C00E6CBF22C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFE66BD-E862-4649-B707-C00E6CBF22C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFE66BD-E862-4649-B707-C00E6CBF22C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFE66BD-E862-4649-B707-C00E6CBF22C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9D07BA-1FA8-45A4-B7C0-2B54E1DDEC92}.Debug|Any CPU.ActiveCfg = Debug
+		{CC9D07BA-1FA8-45A4-B7C0-2B54E1DDEC92}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB33554-0A3E-4C95-B56E-BB2DC2EA327A}
+	EndGlobalSection
+EndGlobal
